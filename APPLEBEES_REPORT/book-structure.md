@@ -385,7 +385,24 @@ Annotated guide to the research papers (all available at omxus.com/research):
 - *Mathematical Foundations of Decentralized Trust*
 
 ### Appendix C: The Wiki
-A note that the full OMXUS wiki (wiki.omxus.com) contains 89+ articles expanding on every concept in this book. The book is the front door. The wiki is the house.
+A note that the full OMXUS wiki (wiki.omxus.com) contains 80+ articles expanding on every concept in this book. The book is the front door. The wiki is the house.
+
+### Appendix D: Claims Not Backed by Research
+Per-chapter transparency on claims lacking peer-reviewed backing. See [APPENDICES_CLAIMS_NOT_RESEARCHED.md](../APPENDICES_CLAIMS_NOT_RESEARCHED.md).
+
+### Appendix E: Original Research of This Book
+The 7 OMXUS papers with rigor levels and narrative relevance. See [APPENDICES_ORIGINAL_RESEARCH.md](../APPENDICES_ORIGINAL_RESEARCH.md).
+
+### Appendix F: The Solution
+Identity (OMXUS HER, VexID), emergency (ring, VexConnect, 60-sec response), DV case, coverage math, French obligation. See [APPENDICES_SOLUTION.md](../APPENDICES_SOLUTION.md).
+
+### Appendix G: The Real Stories
+Note on which incidents are drawn from lived experience (Giles, Tia). See [ABOUT_THE_AUTHORS.md](../ABOUT_THE_AUTHORS.md).
+
+---
+
+## REFERENCES
+Full reference list: [REFERENCES.md](REFERENCES.md)
 
 ---
 
